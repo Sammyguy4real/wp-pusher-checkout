@@ -16,10 +16,6 @@ main {
   display: block;
 }
 
-.general-container {
-  display: flex;
-}
-
 hr {
   box-sizing: content-box;
   height: 0;
